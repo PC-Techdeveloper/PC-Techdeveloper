@@ -22,7 +22,7 @@ You can find me ⌨️
 - [Instagram](https://www.instagram.com/pc_tech_solution_informatic/)
 - [TikTok](https://www.tiktok.com/@pctechsolutioninformatic)
 
-
+[![PC-Techdeveloper](https://github-readme-stats.vercel.app/api?username=PC-Techdeveloper)
 <!--
 **PC-Techdeveloper/PC-Techdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
