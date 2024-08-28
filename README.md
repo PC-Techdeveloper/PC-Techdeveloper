@@ -24,29 +24,6 @@ const JefferDeveloper = {
 - [Instagram](https://www.instagram.com/pc_tech_solution_informatic/)
 - [TikTok](https://www.tiktok.com/@pctechsolutioninformatic)
 
-<a href="https://x.com/jeffersonii191">
-  <img align="right" alt="Jefferson Chavez Diaz | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-
-<a href="https://youtube/jeffersonchavezdiaz9306">
-  <img align="right" alt="Jefferson Chavez Diaz | Twitter" width="21px" src="youtube-svgrepo-com.svg" />
-</a>
-
-<a href="https://threaads.net/@pc_tech_solution_informatic">
-  <img align="right" alt="Jefferson Chavez Diaz | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-
-<a href="https://instagram/pc_tech_solution_informatic">
-  <img align="right" alt="Jefferson Chavez Diaz | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-
-<a href="https://tiktok.com/@pctechsolutioninformatic">
-  <img align="right" alt="Jefferson Chavez Diaz | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://twitter.com/jeffersonii191">
-  <img align="right" alt="Jefferson Chavez Diaz | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-
 [![PC-Techdeveloper](https://github-readme-stats.vercel.app/api?username=PC-Techdeveloper)
 <!--
 **PC-Techdeveloper/PC-Techdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
